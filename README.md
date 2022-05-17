@@ -23,3 +23,6 @@ No projeto utilizamos as seguintes propriedades:
 - Pressable
 - Linking API
 - Add código nativo no AndroidManifest.xml para abrir link
+
+
+![08ea0b40-eea7-4837-84e3-f7a353849f66](https://user-images.githubusercontent.com/49570180/168913574-17557639-c944-47e6-9067-6a9804d9fca5.jpg)
